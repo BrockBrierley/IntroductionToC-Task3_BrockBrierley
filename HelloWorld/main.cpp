@@ -2,5 +2,5 @@
 
 int main()
 {
-	std::cout << "Hello World, This is the beginning of my Version Control Assignment" << std::endl;
+	std::cout << "Hello World \n I have now changed this work so that it will appear differently" << std::endl;
 }
