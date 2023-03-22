@@ -9,4 +9,9 @@ int main()
 
 	//I am attempting to create a merge conflict
 	//This should not make the system happy
+
+	for (int i = 0; i < 5; i++)
+	{
+		std::cout << "I have repeated myself " << i << " times." << std::endl;
+	}
 }
