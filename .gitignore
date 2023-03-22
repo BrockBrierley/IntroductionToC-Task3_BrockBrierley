@@ -30,3 +30,18 @@
 *.exe
 *.out
 *.app
+
+## above are default C++ git ignores built by github
+#Below are defined in the exercises 
+
+# User Configuration Files
+*.user
+
+#Tool generated files
+.vs/
+
+#Build artifacts
+x64/
+
+Debug/
+Release/
