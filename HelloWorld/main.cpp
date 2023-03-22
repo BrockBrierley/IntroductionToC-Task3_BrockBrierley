@@ -2,5 +2,7 @@
 
 int main()
 {
-	std::cout << "Hello World \n I have now changed this work so that it will appear differently" << std::endl;
+	std::cout << "Hello World"<< std::endl;
+	std::cout << "On Second thoughts it is easier to read and understand the code," << std::endl;
+	std::cout << "if it is written like this" << std::endl;
 }
